@@ -4,7 +4,7 @@
 	background-image: url(./a72c1d5945a2a411a89ac304ad27bfe1.jpg);
 	background-repeat: no-repeat;
 	background-color: #f9dddc;
-	width: 500px;
+	width: 300px;
 }
 
 .buttonGroup{
@@ -15,7 +15,7 @@
 	position: absolute;
 	cursor: pointer;
 	margin: 1rem;
-	width: 200px;
+	width: 100px;
 	height: 70px;
 	font-family: 'Pangolin', cursive;
 	font-size: 40px;
@@ -55,14 +55,13 @@
 	font-size: 40px;
 }
 
-a, a:visited, a:hover{
+a, a:visited{
 	text-decoration: none;
 	color: rgb(186, 126, 241);
 	font-family: 'Pangolin', bold;
 	margin-top: 50%;
 	display: flex;
-	justify-content: center;
-	
+	justify-content: center;	
 }
 
 
